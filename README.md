@@ -1,2 +1,2 @@
-# Compiler-Design-Questions
+# CompilerDesign-Questions
 Compiler Design Question
